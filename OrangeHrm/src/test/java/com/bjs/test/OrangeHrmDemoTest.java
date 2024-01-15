@@ -23,8 +23,9 @@ Login l=new Login(d);
 l.typeUsername();
 l.typePassword();
 l.clickSubmitButton();
-Homepage h=new Homepage(d);
+Homepage h=new Homepage(d); 
 h.clickoInc();
+System.out.println("github comit demo");
 	}
 
 }
